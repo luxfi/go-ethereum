@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="go-ethereum" width="880"></p>
+
 ## Go Ethereum
 
 Official Golang execution layer implementation of the Ethereum protocol.
